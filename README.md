@@ -3,4 +3,4 @@ Jenkins pipeline (Integrate with GIT, Maven, Nexus & Tomcat) and deploy an appli
 
 ## Architecture :
 
-                 Code - Build - Test - Artifcat - Deploy
+                 Code - CQA - Build - Test - Artifcat - Deploy - Post build actions
