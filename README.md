@@ -1,5 +1,4 @@
-# Jenkins_pipeline
-Jenkins pipeline (Integrate with GIT, Maven, Nexus & Tomcat) and deploy an static application.
+# Jenkins pipeline (Integrate with GIT, Maven, Nexus & Tomcat) and deploy an static application.
 
 ## Architecture :
 
