@@ -3,4 +3,4 @@ Jenkins pipeline (Integrate with GIT, Maven, Nexus & Tomcat) and deploy an stati
 
 ## Architecture :
 
-                 Code - CQA - Build - Test - Artifcat - Deploy - Post build actions
+                 **Code - CQA - Build - Test - Artifcat - Deploy - Post build actions (Email integration)**
