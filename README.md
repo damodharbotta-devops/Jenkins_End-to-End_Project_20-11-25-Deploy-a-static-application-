@@ -4,6 +4,8 @@
 
 ## Code - CQA - Build - Test - Artifcat - Deploy - Post build actions (Email integration)
 
+
+
 # Step:1 : Launch an 4 EC2 instance for jenkins, Tomcat, SonarQube & Nexus. 
 <img width="1841" height="783" alt="Screenshot 2026-06-20 114201" src="https://github.com/user-attachments/assets/f046c195-1410-4147-8313-cc02f7a6e477" />
 
@@ -39,13 +41,12 @@
 
 # i) Insatll Git in Jenkins server and write the pipeline syntax for stage 1 code.
 # ii) In stage 2: Code Quality Analysis: write the pipe line syantax and integrate with Jenkins.
-# iii) In stage 3: write the pipeline syntax to Build the code and integrate maven with jenkins
+# iii) In stage 3: write the pipeline syntax to Build the code and integrate maven with jenkins.
 
+<img width="1887" height="1005" alt="Screenshot 2026-06-20 170113" src="https://github.com/user-attachments/assets/47120e58-1238-4700-ab13-7bf9bfcc47d6" />
 <img width="1779" height="701" alt="Screenshot 2026-06-20 155043" src="https://github.com/user-attachments/assets/3b7f4b9a-79f3-4a2a-851c-b1438300219e" />
 <img width="1916" height="877" alt="Screenshot 2026-06-20 155802" src="https://github.com/user-attachments/assets/1e177ece-d99d-47fc-8dcc-812efaf4a8cd" />
 <img width="1903" height="1008" alt="Screenshot 2026-06-20 155840" src="https://github.com/user-attachments/assets/1d84c4d9-f30e-41d5-b889-39d3d3884ef9" />
-
-<img width="1887" height="1005" alt="Screenshot 2026-06-20 170113" src="https://github.com/user-attachments/assets/47120e58-1238-4700-ab13-7bf9bfcc47d6" />
 
 
 
