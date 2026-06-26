@@ -48,7 +48,7 @@
 <img width="1779" height="701" alt="Screenshot 2026-06-20 155043" src="https://github.com/user-attachments/assets/3b7f4b9a-79f3-4a2a-851c-b1438300219e" />
 <img width="1918" height="1005" alt="Screenshot 2026-06-20 163238" src="https://github.com/user-attachments/assets/6a44303d-ae31-4229-ad27-20108073d43e" />
 
-# iv) Write pipeline syntax for Nexus and integtare nexus with Jenkins.
+# iv) Write pipeline syntax for Nexus and integrate Nexus with Jenkins.
 # Create repo in nexus dahboard and see the nexus artifacts in the repo
 <img width="1916" height="1021" alt="Screenshot 2026-06-20 181127" src="https://github.com/user-attachments/assets/20c4b1a1-081d-41e3-9a52-366e95cf127b" />
 <img width="1919" height="1031" alt="Screenshot 2026-06-20 181141" src="https://github.com/user-attachments/assets/919d89c1-6a1c-4829-8373-e858edd3826d" />
